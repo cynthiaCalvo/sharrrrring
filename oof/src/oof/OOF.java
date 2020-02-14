@@ -1,0 +1,10 @@
+package oof;
+
+public class OOF {
+
+	public static void main(String[] args) {
+		System.out.println("HI");
+
+	}
+
+}
